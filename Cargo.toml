@@ -1,0 +1,14 @@
+[package]
+authors = ["Michael Johnson"]
+categories = ["embedded", "hardware-support"]
+description = "a collection of robot related traits to allow interoperability between generic inputs and outputs"
+documentation = "https://docs.rs/picoborgrev"
+keywords = ["robotics"]
+license = "MIT OR Apache-2.0"
+name = "robot-traits"
+readme = "README.md"
+repository = "https://github.com/marvin-rs/robot-traits"
+version = "0.1.0"
+
+[badges]
+travis-ci = { repository = "marvin-rs/robot-traits" }
