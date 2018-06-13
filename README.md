@@ -15,8 +15,8 @@ interoperability between generic inputs and outputs.
 Many of the traits were originally borrowed from the python gpiozero
 library although I expect them to diverge over time.
 
-## Examples
-- 
+**Note:** This is still a work in progress and the API should not be considered stable until the
+`1.0` release.
 
 ## License
 

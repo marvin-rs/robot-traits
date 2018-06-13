@@ -1,7 +1,7 @@
 [package]
 authors = ["Michael Johnson"]
-categories = ["embedded", "hardware-support"]
-description = "a collection of robot related traits to allow interoperability between generic inputs and outputs"
+categories = ["hardware-support"]
+description = "A collection of robot related traits to allow interoperability between generic inputs and outputs"
 documentation = "https://docs.rs/picoborgrev"
 keywords = ["robotics"]
 license = "MIT OR Apache-2.0"

@@ -1,7 +1,7 @@
 [![Build Status]][travis] [![Latest Version]][crates.io] [![Latest Docs]][docs]
 
-[Build Status]: https://travis-ci.org/MJohnson459/robot-traits.svg?branch=master
-[travis]: https://travis-ci.org/MJohnson459/robot-traits
+[Build Status]: https://travis-ci.org/marvin-rs/robot-traits.svg?branch=master
+[travis]: https://travis-ci.org/marvin-rs/robot-traits
 [Latest Version]: https://img.shields.io/crates/v/robot-traits.svg
 [crates.io]: https://crates.io/crates/robot-traits
 [Latest Docs]: https://docs.rs/robot-traits/badge.svg
@@ -10,9 +10,6 @@
 # {{crate}}
 
 {{readme}}
-
-## Examples
-- 
 
 ## License
 
