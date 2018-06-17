@@ -12,3 +12,6 @@ version = "0.1.0"
 
 [badges]
 travis-ci = { repository = "marvin-rs/robot-traits" }
+
+[dev-dependencies]
+nalgebra = "0.15"
